@@ -1,0 +1,34 @@
+• DONE •
+Welcome to the Practical Software Engineering Academy.
+
+Please get in touch with me on slack if you have any interest whatsoever in the Practical Software Engineering Academy.
+
+The Practical Software Engineering Academy is designed to be the best Software Engineering training program in the world.
+This program wastes no time.
+
+The first course will give you the skills of a Linux Adminstrator
+
+The seecond course will give you the skills of a Backend Software Engineer
+
+The third course will give you the skills of a Frontend Software Engineer and Full Stack Software Engineer
+
+The fourth course introduces SQL databases into the mix
+
+Here are some highlihgts
+
+The first course you will write  a program that creates programs for you.
+
+The second course you will be able to write large linux applications to create backend services, or automate a chromium browser.
+To create powerful internet bots.
+
+The third course you will be able to create large scale browser applications, and create sharp Graphical User Interfaces
+That can be connected to a linux application.
+
+The fourth course will be able to persist application data to a database.
+
+Unfortunatley there are a lot of imposters, frauds, and gimicks in software engineering training.
+
+Fortunatley that leaves a lot of room for the Practical Software Engineering Academy to be the best.
+And boldly curate and align with best practices in the industry.
+
+Please get in touch with me on slack if you have any interest whatsoever in the Practical Software Engineering Academy.
