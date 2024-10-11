@@ -1,10 +1,12 @@
 • DONE •
 Welcome to the Practical Software Engineering Academy.
 
+We are currently offering early bird discounts.
+
 Please get in touch with me on slack if you have any interest whatsoever in the Practical Software Engineering Academy.
 
 The Practical Software Engineering Academy is designed to be the best Software Engineering training program in the world.
-This program wastes no time.
+This program wastes no time. It uses drills, projects, and in person viedo call assesments with me to make sure you have the the skills, and give you constructive criticisim and assignments to fix any deficiency. 
 
 The first course will give you the skills of a Linux Adminstrator
 

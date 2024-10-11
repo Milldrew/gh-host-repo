@@ -1,0 +1,24 @@
+SE 100
+
+There's one strong rule and one soft rule in this course.
+
+The strong rule is to learn the material as fast as you can and to the best of your ability, using any strategy that suits you.
+That means focus on the material that will make you a better progamer, and skip over anyting that bores you or you don't think is useful.
+
+The soft rule is that to complete the course you must meet with me for an online meeting so that I can confirm taht you have reached the skill level necassary to move to the next step.
+
+The soft rule is soft because I leave it up to you to decide when to move to the next course and you may want to move to the next course first and then circle back for the assesment.
+
+The Desktop App is important because it will teach you through drills to use your own computers command line to build applications.
+
+Code wars drills will improve your language specific programing drills, and give you insights into how to solve problems in the language you are learning.
+
+Vimtutor speed runs will improve your ability to use the vim text editor the most powerful text editor in the world and the most important tool.
+
+The projects give you hands on software engineering experience, and begins by focusing on writing programs that write programs.
+And mastering your tooling.
+
+The assesment will cover the keypoints of the course that are listed along side the course.
+
+You may be asked to expalin concepts in your own words, and perform programing tasks to prove your understanding.
+The assesment may also be refered to as a technical interview.
