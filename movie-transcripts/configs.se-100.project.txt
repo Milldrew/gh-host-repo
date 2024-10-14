@@ -1,0 +1,75 @@
+tmux, vim, git, and zsh 
+Are the most important tools.
+
+Each one of these tools can be configured using a configuration file.
+
+zsh uses a configuration file called .zshrc
+vim uses a configuration file called .vimrc
+The rc stands for run commands.
+
+All of these configuration files read commands from the file when the tool is started.
+
+tmux uses a configuration file called .tmux.conf
+git uses a configuration file called .gitconfig
+
+As you become better at using these tools, you will want to customize them to fit your workflow or style.
+
+───────────── TMUX
+
+You may need to add this line or a similar line
+to your .tmux.conf file to get tmux colors to display correctly.
+
+set -g default-terminal "screen-256color"
+
+
+───────────── ZSH
+In the previous project you added to the PATH by editing the .zshrc file.
+You might want to add small terminal user interface to the .zshrc file.
+At the top you can write
+echo --- Sourcing .zshrc ---
+At the bottom you can write
+echo --- Finished sourcing .zshrc ---
+This will help you know when the .zshrc file is being sourced.
+
+You can change your command line prompt using PS1 in the .zshrc file.
+
+Or you can use a tool like oh-my-zsh to change the prompt.
+https://ohmyz.sh/
+
+───────────── VIM
+The .vimrc file is where you can configure vim.
+
+A basic .vimrc file might look like this:
+
+set number             " Show line numbers
+syntax on              " Turn on syntax highlighting
+set autoindent         " Automatically indent new lines
+set tabstop=2          " Set the number of columns a tab counts for
+set shiftwidth=2       " Set the number of columns to indent
+set expandtab          " Use spaces instead of tabs
+set showcmd            " Show (partial) command in status line
+set cursorline         " Highlight the current line
+
+The double quotes are used to tell vim that the text is a comment/or a note and not a command.
+
+───────────── GIT
+
+The .gitconfig file is where you can configure git.
+
+Your git config will be used to connect your git commits and so forth to your idenity.
+When you collaborate with others or work on your own projects it is important to have your git config set up correctly.
+So that your commits are attributed to you.
+
+A basic .gitconfig file might look like this:
+
+To edit your .gitconfig file you can use the git config command.
+
+git config --global user.name "Your Name"
+git config --global user.email "myemail@email.com"
+
+You can also edit the .gitconfig file directly.
+
+[user]
+	name = Your Name
+	email = youremail@email.com
+
