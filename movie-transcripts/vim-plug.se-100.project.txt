@@ -1,0 +1,26 @@
+Go to the vim-plug repository and follow the instructions to install it.
+
+https://github.com/junegunn/vim-plug
+
+Get the install shell script for vim 
+
+Click to see instructions
+
+run the command
+
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
+add the following to your .vimrc file
+plug#begin()
+" Put your plugins here
+" example: Plug 'tpope/vim-fugitive'
+  Plug 'tpope/vim-commentary'
+  Plug 'vim-airline/vim-airline'
+plug#end()
+
+Run :PlugInstall in vim to install the plugins
+
+After you install a plugin you can access the help docs by typing :help plugin-name
+
+And you will have access to the new keybindings and features that the plugin provides.

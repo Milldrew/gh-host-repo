@@ -1,0 +1,13 @@
+Create a github account if you haven't already.
+
+https://github.com/
+
+create a new repository named configs
+
+add your bins and your dotfiles to the repository
+
+git add ~/.vimrc  ~/.zshrc ~/.tmux.conf ~/bin
+git commit -m "initial commit"
+
+git push origin master
+
