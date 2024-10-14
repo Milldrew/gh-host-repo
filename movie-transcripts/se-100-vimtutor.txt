@@ -1,0 +1,19 @@
+Vimtutor is a tutorial that comes with vim.
+
+To become a great vim user you need to complete this tutorial several times.
+
+Although you do not need to do every exercise in the tutorial, you should seek out the ones that you find interesting and do those exercises.
+
+I recommend that you scroll using Ctrl+D to go down and Ctrl+U to go up.
+
+Or if you want a smooth scroll use Ctrl+E to go down and Ctrl+Y to go up.
+
+I recommend that you turn on the number line by typing :set number.
+
+This way when you find an exercise you like you can write down the line number and come back to it later.
+
+By typing the line number into the command line
+Or using the G command to go to a specific line number.
+
+Vim is a corner stone of software development. And you will naturally want to become a master of it.
+If you get bored of the tutorial, you can always come back to it later.

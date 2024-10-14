@@ -1,0 +1,48 @@
+Create a program that draws a user interface.
+
+You can find a cat image at. 
+
+https://www.asciiart.eu/animals/cats
+
+    /\___/\
+   /       \
+  l  u   u  l
+--l----*----l--
+   \   w   /     - Meow!
+     ======
+   /       \ __
+   l        l\ \
+   l        l/ /   -Audrey Ming Hwang-
+   l  l l   l /
+   \ ml lm /_/
+
+Then you can use the following code to draw the cat image.
+
+
+echo '    /\___/\'
+echo '   /       \'
+echo '  l  u   u  l'
+echo '--l----*----l--'
+echo '   \   w   /     - Meow!'
+echo '     ======'
+echo '   /       \ __'
+echo '   l        l\ \'
+echo '   l        l/ /   -Audrey Ming Hwang-'
+echo '   l  l l   l /'
+echo '   \ ml lm /_/'
+
+You can replace Meow with $1 and that will be the first argument of the program.
+If you make the program cat-says <argument>, it will print the cat image with the argument.
+
+
+echo '    /\___/\'
+echo '   /       \'
+echo '  l  u   u  l'
+echo '--l----*----l--'
+echo '   \   w   /     -' $1
+echo '     ======'
+echo '   /       \ __'
+echo '   l        l\ \'
+echo '   l        l/ /   -Audrey Ming Hwang-'
+echo '   l  l l   l /'
+echo '   \ ml lm /_/'
