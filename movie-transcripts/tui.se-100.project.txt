@@ -16,6 +16,14 @@ https://www.asciiart.eu/animals/cats
    l  l l   l /
    \ ml lm /_/
 
+
+
+Create a file called cat-says.
+touch cat-says
+
+Make it executable.
+chmod +x cat-says
+
 Then you can use the following code to draw the cat image.
 
 
@@ -30,6 +38,10 @@ echo '   l        l\ \'
 echo '   l        l/ /   -Audrey Ming Hwang-'
 echo '   l  l l   l /'
 echo '   \ ml lm /_/'
+
+
+Execute the program.
+./cat-says
 
 You can replace Meow with $1 and that will be the first argument of the program.
 If you make the program cat-says <argument>, it will print the cat image with the argument.
@@ -46,3 +58,6 @@ echo '   l        l\ \'
 echo '   l        l/ /   -Audrey Ming Hwang-'
 echo '   l  l l   l /'
 echo '   \ ml lm /_/'
+
+
+./cat-says "Hello!"

@@ -1,0 +1,34 @@
+When you type a command into the command line the shell looks for a program that matches the name of the command you typed.
+
+Where does the shell look for programs?
+
+The shell looks for programs in directories that are listed in the PATH environment variable.
+
+A path variable looks like this: PATH=/usr/local/bin:/usr/bin:/bin
+
+The PATH variable is a colon separated list of directories that the shell will search in order to find a program that matches the command you typed.
+
+Create a new directory in your home directory called core-bin
+
+mkdir ~/core-bin
+
+Add the core-bin directory to your PATH variable
+
+In the .zshrc file add the following line:
+
+export PATH=$PATH:~/core-bin
+
+now move your terminal user interface program cat-says to the core-bin directory
+
+mv cat-says ~/core-bin
+
+Now you can run the cat-says program from anywhere in the terminal
+
+cat-says
+
+you now have a new bin you can use to organize your programs
+
+As you accumulate more and more programs you can add more directories to your PATH variable
+
+For example you could create a bin called git-bin, for your porgamrs that use the git command.
+

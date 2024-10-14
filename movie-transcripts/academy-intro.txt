@@ -26,11 +26,11 @@ To create powerful internet bots.
 The third course you will be able to create large scale browser applications, and create sharp Graphical User Interfaces
 That can be connected to a linux application.
 
-The fourth course will be able to persist application data to a database.
+Learning Software Engineering is similar to learning how to play the Piano, except for instead of creating sound, you are creating program files, and instead of pressing piano keys you are pressing keyboard keys.
 
-Unfortunatley there are a lot of imposters, frauds, and gimicks in software engineering training.
+Like becoming a good pianist becoming a good Software Engineer requires consistent practice over a long time, muscel mememory, and a good teacher.
 
-Fortunatley that leaves a lot of room for the Practical Software Engineering Academy to be the best.
-And boldly curate and align with best practices in the industry.
+It usually takes a minimum of 2 years of consistent practice to become a good Software Engineer. Please refer to the Cal Newport book Deep Work for information about good studying habits.
 
 Please get in touch with me on slack if you have any interest whatsoever in the Practical Software Engineering Academy.
+
