@@ -1,0 +1,36 @@
+Create a vim plugin
+
+create a vim plugin boilerplate by cloning a repo like vim-commentary
+
+git clone https://github.com/tpope/vim-commentary.git
+
+rename the directory to your plugin name
+
+mv vim-commentary myplugin
+
+remove the .git directory
+
+rm -rf myplugin/.git
+
+create a new git repo
+
+cd myplugin
+git init
+git add .
+git commit -m "initial commit"
+
+Add the path to your plugin to your vimrc VimPlug 'path/to/myplugin'
+
+plug#begin('~/.vim/plugged')
+  ...
+  Plug 'path/to/myplugin'
+plug#end()
+
+Install the plugin with :PlugInstall
+
+go into the plugin directory and add your plugin code
+
+cd ~/path/to/myplugin/plugin
+vim myplugin.vim
+
+

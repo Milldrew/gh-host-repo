@@ -1,0 +1,19 @@
+There are a few ways to exit insert mode
+
+- Press the Esc key
+- Press Ctrl + [
+- Press Ctrl + C
+
+These keystrokes are not very fast, and we can make them faster by remapping jj to Esc in insert mode.
+
+inoremap jj <esc>
+
+You can enter this directly in to your command line to test it out.
+
+The command line acts as a Read Eval Print Loop (REPL) for Vimscript. You can enter commands and see the results immediately.
+
+It is a good iead to add 
+
+inoremap jj <esc>
+
+to your .vimrc file so that it is loaded every time you start Vim.
