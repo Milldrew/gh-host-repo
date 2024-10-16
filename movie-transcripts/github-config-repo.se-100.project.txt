@@ -1,4 +1,13 @@
+SHOW: github website
+SHOW: creating a repo on github
+SHOW: creating a local repo
+SHOW: adding files to the repo
+SHOW: committing the files
+SHOW: pushing the files to github
+SHOW: the remote repo on github
+
 Create a github account if you haven't already.
+Create a github token if you haven't already.
 
 https://github.com/
 
@@ -10,4 +19,12 @@ git add ~/.vimrc  ~/.zshrc ~/.tmux.conf ~/bin
 git commit -m "initial commit"
 
 git push origin master
+
+Go to your github account and check out your new repository.
+
+You can also interact with github from the command line by installing the github command gh.
+
+brew install gh
+
+gh auth login
 

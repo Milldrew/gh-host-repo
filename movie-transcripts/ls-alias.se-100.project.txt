@@ -1,0 +1,33 @@
+SHOW: tmux
+SHOW: tmux split-window -h
+SHOW: vim ~/.zshrc
+SHOW: alias l='ls -la'
+SHOW: alias ls='ls -l'
+SHOW: alias zshrc='vim ~/.zshrc'
+SHOW: alias vimrc='vim ~/.vimrc'
+SHOW: alias tmuxconf='vim ~/.tmux.conf'
+SHOW: alias gitconfig='vim ~/.gitconfig'
+
+Aliases are a concise and powerful way to improve your productivity in the terminal.
+
+Add the following aliases to your ~/.zshrc file:
+
+alias l='ls -la'
+alias ls='ls -l'
+
+The a flag in the ls command is used to show hidden files and directories. The l flag is used to show the long format of the output.
+
+
+SHOW: source ~/.zshrc
+You will likely want to create the alias
+
+alias zshrc='vim ~/.zshrc'
+alias vimrc='vim ~/.vimrc'
+alias tmuxconf='vim ~/.tmux.conf'
+alias gitconfig='vim ~/.gitconfig'
+
+To quickly edit your configuration files.
+
+Aliases are fun and can be used in creative ways to make your terminal experience more enjoyable.
+
+

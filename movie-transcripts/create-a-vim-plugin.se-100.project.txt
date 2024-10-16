@@ -1,4 +1,12 @@
-Create a vim plugin
+The vimscript code that vim uses from a plugin is no different then the vimscript code you would write in your vimrc.
+The vimscript plugin patterns are a way to scale your vimrc and keep it organized.
+SHOW: vim commentary website
+SHOW: git clone https://githu
+SHOW: commands to rename and remove .git and add your own git
+SHOW: show how to add a mapping that says
+Creating a Vim Plugin can be a great way to accelerate your workflow.
+This is a very avanced topic and you may want to view this video, and then circle back to it when you are ready
+and feel the urge to create your own plugin.
 
 create a vim plugin boilerplate by cloning a repo like vim-commentary
 
@@ -33,4 +41,16 @@ go into the plugin directory and add your plugin code
 cd ~/path/to/myplugin/plugin
 vim myplugin.vim
 
+SHOW: command! HelloFromMyPlugin echo "Hello from my plugin"
+SHOW: echo expand('%')
+SHOW: source %
+SHOW: :HelloFromMyPlugin
 
+Create the command HelloFromMyPlugin using some vimscript
+command! HelloFromMyPlugin echo "Hello from my plugin"
+echo expand('%')
+source %
+
+
+Once you are ready to publish your plugin, you can push it to github and share it with the world.
+And it can be used by others using the same plugin manager you used to install it.

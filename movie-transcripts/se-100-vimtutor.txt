@@ -1,19 +1,48 @@
+A text editor is the most important tool for a software developer. It is like a painters paint brush.
+Vim is the most powerful and programable text editor, learning vim will synergistically improve your linux skills.
+And put you in position to be one of the worlds greatest software developers.
+
+SHOW: commnad line vimtutor command execution
 Vimtutor is a tutorial that comes with vim.
 
 To become a great vim user you need to complete this tutorial several times.
 
-Although you do not need to do every exercise in the tutorial, you should seek out the ones that you find interesting and do those exercises.
+Although you do not need to do every lesson in the tutorial, you should seek out the ones that you find interesting and do those exercises.
 
-I recommend that you scroll using Ctrl+D to go down and Ctrl+U to go up.
 
-Or if you want a smooth scroll use Ctrl+E to go down and Ctrl+Y to go up.
+SHOW: set number command execution
+SHOW: /Lesson execution
+SHOW: Ctrl+D and Ctrl+U command execution
+SHOW: Ctrl+E and Ctrl+Y command execution
+SHOW: :<line number> command execution
+SHOW: G command execution
 
 I recommend that you turn on the number line by typing :set number.
 
 This way when you find an exercise you like you can write down the line number and come back to it later.
 
-By typing the line number into the command line
+You may want to use the forward slash / to search for the word Lesson to find the lessons that you like.
+
+I recommend that you scroll using Ctrl+D to go down and Ctrl+U to go up.
+
+Or if you want a smooth scroll use Ctrl+E to go down and Ctrl+Y to go up.
+
+
+By typing the line number into the vim command line
 Or using the G command to go to a specific line number.
 
 Vim is a corner stone of software development. And you will naturally want to become a master of it.
 If you get bored of the tutorial, you can always come back to it later.
+
+A reccomend repeating vimtutor frequently and intermitently until you are satisfied with your vim skills.
+
+SHOW: vimtutor speed run primagen  
+SHOW: vimtutor speed run brodie robertson
+
+Some people have even recorded themselves doing the vimtutor tutorial as fast as possible.
+Declaring they have done the fastest vimtutor speedrun in the world.
+If you like to have fun you can work your way up to the fastest time and challenge the world record.
+
+I also recommend that you create your own vim drills when you discover vim features that you like, which are not covered in the tutorial.
+
+

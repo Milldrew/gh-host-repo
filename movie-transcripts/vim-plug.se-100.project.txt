@@ -1,4 +1,7 @@
 Go to the vim-plug repository and follow the instructions to install it.
+SHOW: installing it with curl
+SHOW: adding the plug#begin() and plug#end() to the .vimrc file
+SHOW: Installing a plugin with :PlugInstall after you install it you have to restart vim
 
 https://github.com/junegunn/vim-plug
 

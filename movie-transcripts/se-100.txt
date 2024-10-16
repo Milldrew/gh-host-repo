@@ -1,3 +1,4 @@
+SHOW: WELCOME TO SE 100
 SE 100
 
 There's one strong rule and one soft rule in this course.
@@ -9,15 +10,26 @@ The soft rule is that to complete the course you must meet with me for a technic
 
 The soft rule is soft because I leave it up to you to decide when to move to the next course and you may want to move to the next course first and then circle back for the assessment.
 
+SHOW: DESKTOP APP CLIP
 The Desktop App is important because it will teach you through drills to use your own computers command line to build applications.
 
 
+SHOW: vimtutor clip
 Vimtutor speed runs will improve your ability to use the vim text editor the most powerful text editor in the world and the most important tool.
 
-The projects give you hands on software engineering experience, and begins by focusing on writing programs that write programs.
-And mastering your tooling.
+The projects will teach you how to use the git version control system to manage your command line tooling.
+You will put your shell script programs, and your dotfiles under version control in a git repository.
+You will also be given some advice, and strategies on how to extend or reprogram your shell to make it more powerful.
+Including how to make a new bin.
+And how to use or develop vim plugins.
+
+
+
+SHOW: KEY POINTS EXPANDABLE
 
 The technical interview will cover the key points of the course that are listed along side the course.
 You may be asked to explain concepts in your own words, and perform programming tasks to prove your understanding.
 
 Once you pass the technical interview you will receive a certificate of completion and be able to move to the next course.
+
+You will be asked to complete some work before retaking the technical interview if you fail.

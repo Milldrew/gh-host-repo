@@ -2,6 +2,7 @@ Create a program that draws a user interface.
 
 You can find a cat image at. 
 
+SHOW: The cat image at the following link.
 https://www.asciiart.eu/animals/cats
 
     /\___/\
@@ -18,6 +19,8 @@ https://www.asciiart.eu/animals/cats
 
 
 
+SHOW: touch cat-says
+SHOW: chmod +x cat-says
 Create a file called cat-says.
 touch cat-says
 
@@ -26,6 +29,8 @@ chmod +x cat-says
 
 Then you can use the following code to draw the cat image.
 
+SHOW: vim cat-says
+SHOW: creating cat image in cat-says
 
 echo '    /\___/\'
 echo '   /       \'
@@ -40,6 +45,7 @@ echo '   l  l l   l /'
 echo '   \ ml lm /_/'
 
 
+SHOW: split tmux window to execute the program and finishing writing the code and re execute the program with the varible
 Execute the program.
 ./cat-says
 
