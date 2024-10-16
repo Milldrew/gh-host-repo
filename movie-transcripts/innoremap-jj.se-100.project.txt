@@ -17,3 +17,11 @@ It is a good iead to add
 inoremap jj <esc>
 
 to your .vimrc file so that it is loaded every time you start Vim.
+the leader command is the backslash key \
+So if you want to map keys that have already been mapped, you can use the leader key to create a new mapping.
+
+nnoremap <leader>sn :set number!<cr>
+nnoremap <leader>nn :set nonumber!<cr>
+
+nnoremap is used to create a normal mode mapping.
+inoremap is used to create an insert mode mapping.

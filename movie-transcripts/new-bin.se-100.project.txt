@@ -1,3 +1,13 @@
+SHOW: pwd
+SHOW: printenv PATH
+SHOW: vim .zshrc edit the PATH variable to include the core-bin directory
+SHOW: cat-says doesnt work
+SHOW: ./cat-says works
+SHOW: mkdir ~/core-bin
+SHOW: export PATH=$PATH:~/core-bin
+SHOW: mv cat-says ~/core-bin
+SHOW: cat-says works
+
 When you type a command into the command line the shell looks for a program that matches the name of the command you typed.
 
 Where does the shell look for programs?
@@ -5,8 +15,18 @@ Where does the shell look for programs?
 The shell looks for programs in directories that are listed in the PATH environment variable.
 
 A path variable looks like this: PATH=/usr/local/bin:/usr/bin:/bin
+It has a list of directories separated by colons.
+The shell will search each directory in the PATH variable to find a program file whose name matches the command you typed.
 
-The PATH variable is a colon separated list of directories that the shell will search in order to find a program that matches the command you typed.
+printenv PATH
+
+
+In the terminal user interface project we created a program called cat-says
+In order to run the cat-says program we had to type ./cat-says
+If I type cat-says the shell will not find the program because the shell does not search the current directory for programs.
+
+./cat-says
+cat-says
 
 Create a new directory in your home directory called core-bin
 
@@ -26,9 +46,9 @@ Now you can run the cat-says program from anywhere in the terminal
 
 cat-says
 
-you now have a new bin you can use to organize your programs
+and you now have a new bin you can use to organize your programs
 
 As you accumulate more and more programs you can add more directories to your PATH variable
 
-For example you could create a bin called git-bin, for your porgamrs that use the git command.
+For example you could create a bin called git-bin, for your programs that use the git command.
 

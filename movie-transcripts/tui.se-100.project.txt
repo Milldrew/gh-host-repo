@@ -67,3 +67,11 @@ echo '   \ ml lm /_/'
 
 
 ./cat-says "Hello!"
+
+SHOW: ./cat-says "Hello!"
+SHOW cat-says "Hello!"
+Our program file is not in a directory that is listed by the PATH variable.
+Therefore we have to execute the program by manually specifying the path to the program.
+
+In another project you will create a new bin directory, and add the program to the bin. So that you dont have to specify the path to the program.
+And the shell will know where to find the program.

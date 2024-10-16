@@ -1,0 +1,44 @@
+SHOW: OPEN AI WEBSITE
+When a question arises in your mind you want to be able to find the answer as quickly as possible. 
+And then secure the answer in your memory if it is important.
+The fastest way to get new information is to use an OpenAI chat.
+OpenAI is very good at teaching.
+And can act as a tutor for you.
+Although it is not perfect, and can make mistakes, it has some qualities that make it a better teacher than a human.
+So I highly recommend interacting with OpenAI when you have a question.
+In a future courses we will add AI to our text editor and our terminal. 
+For now you can use the OpenAI website to ask questions and get answers.
+
+
+SHOW: Stack Overflow
+Stack overflow is a website where you can ask questions and get answers from other people.
+It is likely that someone else has already asked the question you have.
+And you will be able to find the answer to your question using a google search and adding the words stack overflow to the end of your question.
+
+
+SHOW: Books and Documentation
+Sometimes the question you are looking for might be answered in the documentaion of the tool you are using.
+You can use a variety of shortcuts to quickly access the documentation of a tool
+
+For vim use the command :help followed by the topic you are interested in.
+SHOW: :help
+When you install a new vim plugin you can use the :help command to learn how to use it.
+:help 
+For example to see the documentation for the commentary plugin you can use the command :help commentary
+SHOW: :help commentary
+the documentation is stored in the doc folder of the vim plugin, and vim will automatically know it is there.
+
+For zsh use the man command followed by the topic you are interested in.
+SHOW: man zsh
+
+For git use the git help command followed by the topic you are interested in.
+SHOW: git help
+
+Many commmand line tools have a --help option that will show you the documentation for that tool.
+
+──────────────
+Sometimes a tools documenation is too long ad disorganized, in that case you can use a book to learn the tool.
+I have listed some useful books in the Reference Material section of the course.
+SHOW: reference material section of the course
+
+
