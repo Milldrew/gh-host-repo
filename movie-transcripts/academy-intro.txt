@@ -1,26 +1,28 @@
-• DONE •
+
+-- SHOW: Welcome Screen --
+
 Welcome to the Practical Software Engineering Academy.
 
 We are currently offering early bird discounts.
 
-Please get in touch with me on slack if you have any interest whatsoever in the Practical Software Engineering Academy.
+Please get in touch with me, Andrew Miller, on slack if you have any interest whatsoever in the Practical Software Engineering Academy.
 
 The Practical Software Engineering Academy is designed to be the best Software Engineering training program in the world.
-This program wastes no time. It uses drills, projects, and in person viedo call assesments with me to make sure you have the the skills, and give you constructive criticisim and assignments to fix any deficiency. 
+This program wastes no time. It uses drills, projects, and technical interviews all of which will test and exercise your practical software engineering skills. You will be given individualized feedback after each technical interview.
 
 The first course will give you the skills of a Linux Adminstrator
 
-The seecond course will give you the skills of a Backend Software Engineer
+The second course will give you the skills of a Backend Software Engineer
 
 The third course will give you the skills of a Frontend Software Engineer and Full Stack Software Engineer
 
 The fourth course introduces SQL databases into the mix
 
-Here are some highlihgts
+Here are some highlights
 
 The first course you will write  a program that creates programs for you.
 
-The second course you will be able to write large linux applications to create backend services, or automate a chromium browser.
+The second course you will be able to write large linux applications to create back-end services, or automate a chromium browser.
 To create powerful internet bots.
 
 The third course you will be able to create large scale browser applications, and create sharp Graphical User Interfaces
@@ -28,9 +30,9 @@ That can be connected to a linux application.
 
 Learning Software Engineering is similar to learning how to play the Piano, except for instead of creating sound, you are creating program files, and instead of pressing piano keys you are pressing keyboard keys.
 
-Like becoming a good pianist becoming a good Software Engineer requires consistent practice over a long time, muscel mememory, and a good teacher.
+Like becoming a good pianist becoming a good Software Engineer requires consistent practice over a long time, muscle  memory, and a good teacher.
 
 It usually takes a minimum of 2 years of consistent practice to become a good Software Engineer. Please refer to the Cal Newport book Deep Work for information about good studying habits.
 
-Please get in touch with me on slack if you have any interest whatsoever in the Practical Software Engineering Academy.
+Please get in touch with me on slack if you have any interest or questions whatsoever in the Practical Software Engineering Academy.
 
