@@ -2,7 +2,7 @@ A text editor is the most important tool for a software developer. It is like a 
 Vim is the most powerful and programable text editor, learning vim will synergistically improve your linux skills.
 And put you in position to be one of the worlds greatest software developers.
 
-SHOW: commnad line vimtutor command execution
+SHOW: command line vimtutor command execution
 Vimtutor is a tutorial that comes with vim.
 
 To become a great vim user you need to complete this tutorial several times.
