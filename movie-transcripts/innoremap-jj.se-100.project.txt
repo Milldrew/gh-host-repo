@@ -12,7 +12,7 @@ You can enter this directly in to your command line to test it out.
 
 The command line acts as a Read Eval Print Loop (REPL) for Vimscript. You can enter commands and see the results immediately.
 
-It is a good iead to add 
+It is a good idea to add 
 
 inoremap jj <esc>
 

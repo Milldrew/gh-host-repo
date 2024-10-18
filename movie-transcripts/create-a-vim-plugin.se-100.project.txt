@@ -30,7 +30,6 @@ git commit -m "initial commit"
 Add the path to your plugin to your vimrc VimPlug 'path/to/myplugin'
 
 plug#begin('~/.vim/plugged')
-  ...
   Plug 'path/to/myplugin'
 plug#end()
 
