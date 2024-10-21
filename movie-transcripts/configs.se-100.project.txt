@@ -32,10 +32,12 @@ SHOW: vim .zshrc
 In the previous project you added to the PATH by editing the .zshrc file.
 You might want to add small terminal user interface to the .zshrc file.
 At the top you can write
-echo --- Sourcing .zshrc ---
-At the bottom you can write
-echo --- Finished sourcing .zshrc ---
+echo '--- Sourcing .zshrc ---'
+export PATH=$PATH:~/core-bin
+echo '--- Finished sourcing .zshrc ---'
 This will help you know when the .zshrc file is being sourced.
+
+
 
 You can change your command line prompt using PS1 in the .zshrc file.
 
