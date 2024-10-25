@@ -1,0 +1,11 @@
+SHOW: Pen and paper checklist
+To prepare for the technical interview, create a checklist that includes each on of the keypoints.
+SHOW: Key points photo
+
+Go through each key point and if you are prepared to perform a programing task that demonstrates that key point, check it off. If you are not prepared, leave it unchecked.
+
+Once you can go down the list and check off each key point, you are ready for the technical interview.
+The technical interview will cover each of the keypoints.
+The technical interview will occur in a slack huddle. You will want to do a practice interview using slack huddle with a friend.
+SHOW Slack huddle photo
+So that you are comfortable with the format.

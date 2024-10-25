@@ -22,6 +22,8 @@ So if you want to map keys that have already been mapped, you can use the leader
 
 nnoremap <leader>sn :set number!<cr>
 nnoremap <leader>nn :set nonumber!<cr>
+nnoremap <leader>sn :set number<cr>
+nnoremap <leader>nn :set nonumber<cr>
 
 nnoremap is used to create a normal mode mapping.
 inoremap is used to create an insert mode mapping.

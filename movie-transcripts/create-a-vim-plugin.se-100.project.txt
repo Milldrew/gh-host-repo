@@ -42,8 +42,10 @@ vim myplugin.vim
 
 SHOW: command! HelloFromMyPlugin echo "Hello from my plugin"
 SHOW: echo expand('%')
-SHOW: source %
+SHOW: w | source %
 SHOW: :HelloFromMyPlugin
+
+
 
 Create the command HelloFromMyPlugin using some vimscript
 command! HelloFromMyPlugin echo "Hello from my plugin"

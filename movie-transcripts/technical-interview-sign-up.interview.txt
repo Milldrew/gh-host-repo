@@ -1,0 +1,18 @@
+SHOW: SLACK CHANNEL NAMED "technical-interview"
+SHOW: google sheets sign up 
+SHOW: Andrew miller chat
+SHOW: huddle button
+
+
+Once you have finished the prerequiste work for the technical interview. 
+Sign up for an interview time slot on the google sheets link that was posted in the slack channel.
+Message Andrew Miller on slack to confirm your interview time slot.
+
+
+When the time of your interview comes.
+Message Andrew Miller on slack that you are ready for your interview.
+
+Click on your direct messages with Andrew Miller and click on the huddle button to start the video call.
+You will be asked to share your computer screen while you perform the technical interview.
+Refer to the technical interview prep video above this one for more information on how to prepare for the technical interview.
+

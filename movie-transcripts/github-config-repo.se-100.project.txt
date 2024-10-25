@@ -8,23 +8,60 @@ SHOW: the remote repo on github
 
 Create a github account if you haven't already.
 Create a github token if you haven't already.
+You will need a token to push your local repository to github.
+And to interact with github from the command line.
+You will need to store the token as an environment variable.
+
+export GITHUB_TOKEN=your_token_here
+
+
+You can also revoke the token at any time and create a new one.
+
+SHOW: Creating a github token
+SHOW: COPYING THE TOKEN
 
 https://github.com/
 
-create a new repository named configs
+Create a new github repository.
+You will want to make sure it is private so you can add your secuirty tokens there without worrying about them being exposed.
 
-add your bins and your dotfiles to the repository
+Go to your home directory which is where your configuration files are found by their respective programs.
+Follow the instructions on the github website to create a new repository.
+Create a Readme file and a .gitignore file.
+Add the files to the repository.
+Commit the files.
+Push the files to github.
+add all of your configuration files to the repository.
+commit the files.
+push the files to github.
+
+For the Readme file it is easier to manage a txt file than a markdown file.
+Markdown files can be tricky and time consuming and are usually not necessary for a simple Readme file.
+
+cd ~
+echo "# my.configs" >> README.txt
+git init
+git add README.txt
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Milldrew/my.configs.git
+git push -u origin main
+
+create the files if they dont exist
+touch ~/.vimrc ~/.zshrc ~/.tmux.conf ~/bin
 
 git add ~/.vimrc  ~/.zshrc ~/.tmux.conf ~/bin
-git commit -m "initial commit"
-
-git push origin master
+git commit -m "added config files and bin directory"
+git push
 
 Go to your github account and check out your new repository.
 
 You can also interact with github from the command line by installing the github command gh.
 
-brew install gh
 
+export GITHUB_TOKEN=your_token_here
+
+brew install gh
 gh auth login
 
+gh --help
