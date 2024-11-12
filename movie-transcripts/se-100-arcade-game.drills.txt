@@ -1,0 +1,40 @@
+Each course includes a desktop arcade game that I hand rolled specifically for each course.
+───────
+SHOW: How to install the desktop app
+After you purchase the course you will see the course material appear on the courses page. If the course is bought and you are loged in you will see the course material. If you are not logged in or you haven't purchased the course you  will not see the course
+Under Required Learning you will see drills → and under drills you will see the "Gamified Course Material" with the download button.
+
+Click the download button
+The file is more than a gigabyte so it will take some time to download
+
+───────
+SHOW: Moving the application into the app directory
+You will want to make sure you are starting up the application from the App directory.
+This will make it easier for the app to auto update if a new version is released.
+
+SHOW:Secuirty Warning
+Accept Security risks
+
+───────
+SHOW: Installing the xcode developer tools
+The application requires that you install the xcode developer tools, because you will be using real developer tools.
+
+When you start the app if the tools are not already installed you should see a prompt to install them.
+If you do not you will have to run this command to ask for the pop up again:
+
+xcode-select --install
+
+If you run this command and nothing happens the install window may be hidden behind another window.
+───────
+SHOW: Show logging in 
+You will see a login screen where you will use the same email and password you used to purchase the course.
+
+───────
+SHOW: Show map movement
+To enter a checkpoint press enter, you can move around using the arrow keys, or the home h, and l keys. You can also move on the map by clicking the mouse.
+───────
+SHOW: Arcade game
+Once you press enter on a checkpoint level, you will enter the level.
+SHOW: Controls
+SHOW: Show task completion
+
