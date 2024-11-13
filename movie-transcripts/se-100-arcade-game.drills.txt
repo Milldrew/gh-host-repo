@@ -36,5 +36,8 @@ To enter a checkpoint press enter, you can move around using the arrow keys, or 
 SHOW: Arcade game
 Once you press enter on a checkpoint level, you will enter the level.
 SHOW: Controls
+To navigate the level you can use these controls hjkl you can also press f to connect to the robots compuer faster.
 SHOW: Show task completion
+Once you connect to the robot you will need to complete each task to neutralize the robot. Starting from the
+top and moving to the bottom.
 
